@@ -1,12 +1,12 @@
-Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Insufficient Labelled Data
+Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Limited Labelled Data
 ===================================================================================================
 
-Implementation for the paper (submitted to ACM Multimedia Conference). <br>
-**[Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Insufficient Labelled Data][1]**<br>
-[Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
+Implementation for the paper (submitted to IEEE Transactions on Affective Computing). <br>
+**[Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Limited Labelled Data][1]**<br>
+[Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik, [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/), and [Xiaobai Li](https://www.oulu.fi/en/researchers/xiaobai-li)
 
 ## Code Files
-The code files are currently private as the corresponding research paper in Elsevier Pattern Recognition is under review. They will be made publically available soon after the paper is published/accepted for publication.
+The code files are currently private as the corresponding research paper in IEEE Transactions on Affective Computing is under review. They will be made publically available soon after the paper is published/accepted for publication.
 
 Dataset Access
 --------------
