@@ -1,8 +1,8 @@
-Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Limited Labelled Data
+VISTANet: VIsual Spoken Textual Additive Net for Interpretable Multimodal Emotion Recognition
 ===================================================================================================
 
 Implementation for the paper (submitted to IEEE Transactions on Affective Computing). <br>
-**[Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Limited Labelled Data][1]**<br>
+**[VISTANet: VIsual Spoken Textual Additive Net for Interpretable Multimodal Emotion Recognition][1]**<br>
 [Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik, [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/), and [Xiaobai Li](https://www.oulu.fi/en/researchers/xiaobai-li)
 
 ## Code Files
