@@ -3,7 +3,7 @@ VISTANet: VIsual Spoken Textual Additive Net for Interpretable Multimodal Emotio
 
 Implementation for the paper (submitted to IEEE Transactions on Affective Computing). <br>
 **[VISTANet: VIsual Spoken Textual Additive Net for Interpretable Multimodal Emotion Recognition][1]**<br>
-[Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik, [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/), and [Xiaobai Li](https://www.oulu.fi/en/researchers/xiaobai-li)
+[Puneet Kumar](https://puneet-kr.github.io/), [Sarthak Malik](https://www.linkedin.com/in/sarthak-malik-03777a190/), [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/), and [Xiaobai Li](https://www.oulu.fi/en/researchers/xiaobai-li)
 
 ## Code Files
 The code files are currently private as the corresponding research paper in IEEE Transactions on Affective Computing is under review. They will be made publically available soon after the paper is published/accepted for publication.
